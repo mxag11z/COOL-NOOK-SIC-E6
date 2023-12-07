@@ -1,0 +1,14 @@
+# Ignorar archivos temporales
+*.log
+*.tmp
+
+# Ignorar directorios generados automáticamente
+/build/
+/dist/
+
+# Ignorar archivos de configuración local
+.env
+.config/
+
+# Ignorar archivos de dependencias (por ejemplo, para proyectos Node.js)
+node_modules/

@@ -1,0 +1,23 @@
+[
+    {
+        "caducidad": "2023-12-31",
+        "id_producto": "001",
+        "ingreso": 150,
+        "nombre": "Producto 1",
+        "tipo": "A"
+    },
+    {
+        "caducidad": "2024-06-15",
+        "id_producto": "002",
+        "ingreso": 200,
+        "nombre": "Producto 2",
+        "tipo": "B"
+    },
+    {
+        "caducidad": "2023-11-20",
+        "id_producto": "003",
+        "ingreso": 100,
+        "nombre": "Producto 3",
+        "tipo": "C"
+    }
+]
